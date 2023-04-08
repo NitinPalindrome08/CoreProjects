@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ig31SyeDQjRgT5N1dICbe9Y/3dLVSBTPITn+7mgc8kq5KADjPa3IINZXR7CIWO+wQL1ZWmZ24OHOPtm5ouAPbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nitinkumar.FAREAST\\source\\repos\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nitinkumar.FAREAST\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\nitinkumar.FAREAST\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
