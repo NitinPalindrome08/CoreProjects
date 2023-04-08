@@ -16,7 +16,7 @@ This repo is for DotNet Core project:
 11. Send the POST request from Postman and verify the response.
 12. Other thing you can also do is to put a break point in program.cs in httpPost method and see how the code is working if you want to debug.
 
-#**About the Service/Code: **
+#**Implementation Details it**
 
 I have implemented the gwp controller in program.cs just to simplify the things. 
 
